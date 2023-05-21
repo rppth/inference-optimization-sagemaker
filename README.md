@@ -1,1 +1,1 @@
-# inference-optimization-sagemaker
+# Inference Optimization Lab - AWS 
