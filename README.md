@@ -36,14 +36,13 @@ Before starting the workshop, make sure you have the following:
 
 ## Labs Overview
 
-1. **Lab 1: Inference Options on AWS SageMaker**
-   - Understand the different options you have for hosting models on AWS SageMaker.
-   - Explore real-time inference, async inference, batch inference, and serverless inference.
+1. **Lab 1: Bring your own Model - Script Mode **
+   - Bring your own model into AWS SageMaker with Script-Mode
+   - Configure the model to use an AWS Managed Container for Training and Inference 
    
 2. **Lab 2: Picking the right Infrastructure and Monitoring your endpoints**
    - Learn how to choose the appropriate infrastructure for your model.
    - Monitor your Inference Endpoints to ensure model and data quality
-   - Optionally, discover how to leverage AWS Inferentia chips for faster and cost-effective inference.
 
 3. **Lab 3: Inference Pipelines**
    - Explore the concept of inference pipelines in SageMaker.
