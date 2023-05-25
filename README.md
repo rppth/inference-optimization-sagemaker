@@ -36,7 +36,7 @@ Before starting the workshop, make sure you have the following:
 
 ## Labs Overview
 
-1. **Lab 1: Bring your own Model - Script Mode **
+1. **Lab 1: Bring your own Model - Script Mode**
    - Bring your own model into AWS SageMaker with Script-Mode
    - Configure the model to use an AWS Managed Container for Training and Inference 
    
